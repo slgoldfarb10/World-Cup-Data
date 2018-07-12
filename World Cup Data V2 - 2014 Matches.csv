@@ -1,0 +1,65 @@
+Match_index,Team 1,Team 1 Confederation,Team 2,Team 2 Confederation,Matchup_ID,Winner (or draw),Winner Confederation,Win not draw,Team 1 Goals,Team 2 Goals,Goal Differential,Absolute Goal Differential,Total Goals,Team 1 Cards,Team 2 Cards,Total Cards,Team 1 Fouls,Team 2 Fouls,Total Fouls,Winning Team Fouled More,Higher Ranked Team Fouled More,Higher Ranked Team Fouled More and Lost or Drew,Lower Ranked Team Fouls More and Wins or Draws,Higher SPI Team Fouled More,Higher SPI Team Fouled More and Lost or Drew,Lower SPI Team Fouls More and Wins or Draws,Team that fouled more,fouls equal,Team that fouled more won,Team 1 Ranking (WC Teams),Team 2 Ranking (WC Teams),Higher Ranked Team Won,Higher Ranked Team Won or Drew,Large Ranking Gap,"High SPI win, large gap",Upset,Ranking Difference,Goal Differential for Favorite by Ranking,Team 1 SPI,Team 2 SPI,Higher SPI Team Won,Higher SPI Team Won or Drew,Large SPI Gap,"High SPI win, large gap",Upset SPI,SPI Difference,Goal Differential for Favorite,Goal Differential / SPI Gap,AFC fouls,CAF fouls,CONCACAF fouls,CONMEBOL fouls,UEFA fouls
+1,Brazil,CONMEBOL,Croatia,UEFA,4,Brazil,CONMEBOL,1,3,1,2,2,4,2,2,4,5,21,26,0,0,0,0,0,0,0,Croatia,0,0,3,17,1,1,1,1,0,14,2,91.83,75.72,1,1,1,1,0,16.11,2,0.124,FALSE,FALSE,FALSE,5,21
+2,Mexico,CONCACAF,Cameroon,CAF,8,Mexico,CONCACAF,1,1,0,1,1,1,1,1,2,11,12,23,0,0,0,0,0,0,0,Cameroon,0,0,19,30,1,1,1,1,0,11,1,76.95,71.33,1,1,0,0,0,5.62,1,0.178,FALSE,12,11,FALSE,FALSE
+3,Spain,UEFA,Netherlands,UEFA,1,Netherlands,UEFA,1,1,5,-4,4,6,1,3,4,5,18,23,1,0,0,1,0,0,1,Netherlands,0,0,1,15,0,0,1,0,1,14,-4,89.13,82.49,0,0,0,0,0,6.64,-4,-0.602,FALSE,FALSE,FALSE,FALSE,5
+4,Chile,CONMEBOL,Australia,AFC,18,Chile,CONMEBOL,1,3,1,2,2,4,1,3,4,9,18,27,0,0,0,0,0,0,0,Australia,0,0,14,32,1,1,1,1,0,18,2,86.72,69.45,1,1,1,1,0,17.27,2,0.116,18,FALSE,FALSE,9,FALSE
+5,Colombia,CONMEBOL,Greece,UEFA,4,Colombia,CONMEBOL,1,3,0,3,3,3,1,2,3,19,14,33,1,1,0,0,1,0,0,Colombia,0,0,8,12,1,1,0,0,0,4,3,85.82,76.78,1,1,1,1,0,9.04,3,0.332,FALSE,FALSE,FALSE,19,14
+6,Ivory Coast,CAF,Japan,AFC,11,Ivory Coast,CAF,1,2,1,1,1,3,2,2,4,12,13,25,0,0,0,0,0,0,0,Japan,0,0,22,29,1,1,0,0,0,7,1,78.9,73.5,1,1,0,0,0,5.4,1,0.185,13,12,FALSE,FALSE,FALSE
+7,Uruguay,CONMEBOL,Costa Rica,CONCACAF,13,Costa Rica,CONCACAF,1,1,3,-2,2,4,4,0,4,20,18,38,0,1,1,0,1,1,0,Uruguay,0,1,7,24,0,0,1,0,1,17,-2,83.35,74.07,0,0,1,0,1,9.28,-2,-0.216,FALSE,FALSE,18,20,FALSE
+8,England,UEFA,Italy,UEFA,1,Italy,UEFA,1,1,2,-1,1,3,1,0,1,8,12,20,1,1,0,0,0,0,1,Italy,0,1,10,9,1,1,0,0,0,1,1,83.22,79.49,0,0,0,0,0,3.73,-1,-0.268,FALSE,FALSE,FALSE,FALSE,8
+9,Switzerland,UEFA,Ecuador,CONMEBOL,4,Switzerland,UEFA,1,2,1,1,1,3,1,1,2,9,15,24,0,0,0,0,1,1,0,Ecuador,0,0,6,23,1,1,1,1,0,17,1,78.05,80.65,0,0,0,0,0,2.6,-1,-0.385,FALSE,FALSE,FALSE,15,9
+10,France,UEFA,Honduras,CONCACAF,3,France,UEFA,1,3,0,3,3,3,,,7,13,14,27,0,0,0,0,0,0,0,Honduras,0,1,16,25,1,1,0,0,0,9,3,86.12,69.62,1,1,1,1,0,16.5,3,0.182,FALSE,FALSE,14,FALSE,13
+11,Argentina,CONMEBOL,Bosnia and Herzegovina,UEFA,4,Argentina,CONMEBOL,1,2,1,1,1,3,,,2,10,14,24,0,0,0,0,0,0,0,Bosnia and Herzegovina,0,0,5,20,1,1,1,1,0,15,1,90,80.31,1,1,1,1,0,9.69,1,0.103,FALSE,FALSE,FALSE,10,14
+12,Iran,AFC,Nigeria,CAF,11,draw,,0,0,0,0,0,0,,,1,18,16,34,0,1,1,0,0,0,1,Iran,0,0,27,28,0,1,0,0,0,1,0,70.63,75.23,0,1,0,0,0,4.6,0,0,18,16,FALSE,FALSE,FALSE
+13,Germany,UEFA,Portugal,UEFA,1,Germany,UEFA,1,4,0,4,4,4,,,2,8,11,19,0,0,0,0,0,0,0,Portugal,0,0,2,4,1,1,0,0,0,2,4,88.87,81.02,1,1,0,0,0,7.85,4,0.51,FALSE,FALSE,FALSE,FALSE,8
+14,Ghana,CAF,USA,CONCACAF,8,USA,CONCACAF,1,1,2,-1,1,3,,,2,10,12,22,1,1,0,0,1,0,0,USA,0,0,26,13,1,1,1,1,0,13,1,77.23,77.42,1,1,0,0,0,0.19,1,5.263,FALSE,10,12,FALSE,FALSE
+15,Belgium,UEFA,Algeria,CAF,2,Belgium,UEFA,1,2,1,1,1,3,,,2,21,18,39,1,1,0,0,1,0,0,Belgium,0,0,11,21,1,1,0,0,0,10,1,81.97,63.43,1,1,1,1,0,18.54,1,0.054,FALSE,18,FALSE,FALSE,21
+16,Russia,UEFA,South Korea,AFC,6,draw,,0,1,1,0,0,2,,,4,15,7,22,0,1,1,0,1,1,0,Russia,0,1,18,31,0,1,1,0,0,13,0,79.03,72.38,0,1,0,0,0,6.65,0,0,7,FALSE,FALSE,FALSE,15
+17,Brazil,CONMEBOL,Mexico,CONCACAF,13,draw,,0,0,0,0,0,0,,,4,13,18,31,0,0,0,1,0,0,1,Mexico,0,1,3,19,0,1,1,0,0,16,0,91.83,76.95,0,1,1,0,0,14.88,0,0,FALSE,FALSE,18,13,FALSE
+18,Cameroon,CAF,Croatia,UEFA,2,Croatia,UEFA,1,0,4,-4,4,4,,,2,11,9,20,0,0,0,0,0,0,0,Cameroon,0,0,30,17,1,1,1,1,0,13,4,71.33,75.72,1,1,0,0,0,4.39,4,0.911,FALSE,11,FALSE,FALSE,9
+19,Spain,UEFA,Chile,CONMEBOL,4,Chile,CONMEBOL,1,0,2,-2,2,2,,,3,14,15,29,1,0,0,1,0,0,1,Chile,0,0,1,14,0,0,1,0,1,13,-2,89.13,86.72,0,0,0,0,0,2.41,-2,-0.83,FALSE,FALSE,FALSE,15,14
+20,Australia,AFC,Netherlands,UEFA,6,Netherlands,UEFA,1,2,3,-1,1,5,,,2,18,25,43,1,1,0,0,1,0,0,Netherlands,0,0,32,15,1,1,1,1,0,17,1,69.45,82.49,1,1,1,1,0,13.04,1,0.077,18,FALSE,FALSE,FALSE,25
+21,Colombia,CONMEBOL,Ivory Coast,CAF,9,Colombia,CONMEBOL,1,2,1,1,1,3,,,2,11,14,25,0,0,0,0,0,0,0,Ivory Coast,0,0,8,22,1,1,1,1,0,14,1,85.82,78.9,1,1,0,0,0,6.92,1,0.145,FALSE,14,FALSE,11,FALSE
+22,Japan,AFC,Greece,UEFA,6,draw,,0,0,0,0,0,0,,,5,23,18,41,0,0,0,1,0,0,1,Japan,0,0,29,12,0,1,1,0,0,17,0,73.5,76.78,0,1,0,0,0,3.28,0,0,23,FALSE,FALSE,FALSE,18
+23,Uruguay,CONMEBOL,England,UEFA,4,Uruguay,CONMEBOL,1,2,1,1,1,3,,,2,17,12,29,1,1,0,0,1,0,0,Uruguay,0,1,7,10,1,1,0,0,0,3,1,83.35,83.22,1,1,0,0,0,0.13,1,7.692,FALSE,FALSE,FALSE,17,12
+24,Italy,UEFA,Costa Rica,CONCACAF,3,Costa Rica,CONCACAF,1,0,1,-1,1,1,,,2,10,24,34,1,0,0,1,0,0,1,Costa Rica,0,0,9,24,0,0,1,0,1,15,-1,79.49,74.07,0,0,0,0,0,5.42,-1,-0.185,FALSE,FALSE,24,FALSE,10
+25,Switzerland,UEFA,France,UEFA,1,France,UEFA,1,2,5,-3,3,7,,,1,12,16,28,1,0,0,1,1,0,0,France,0,0,6,16,0,0,0,0,0,10,-3,78.05,86.12,1,1,1,1,0,8.07,3,0.372,FALSE,FALSE,FALSE,FALSE,12
+26,Honduras,CONCACAF,Ecuador,CONMEBOL,13,Ecuador,CONMEBOL,1,1,2,-1,1,3,,,5,15,17,32,1,1,0,0,1,0,0,Ecuador,0,0,25,23,1,1,0,0,0,2,1,69.62,80.65,1,1,1,1,0,11.03,1,0.091,FALSE,FALSE,15,17,FALSE
+27,Argentina,CONMEBOL,Iran,AFC,18,Argentina,CONMEBOL,1,1,0,1,1,1,,,2,8,14,22,0,0,0,0,0,0,0,Iran,0,0,5,27,1,1,1,1,0,22,1,90,70.63,1,1,1,1,0,19.37,1,0.052,14,FALSE,FALSE,8,FALSE
+28,Nigeria,CAF,Bosnia and Herzegovina,UEFA,2,Nigeria,CAF,1,1,0,1,1,1,,,2,9,7,16,1,0,0,1,0,0,1,Nigeria,0,0,28,20,0,0,0,0,0,8,-1,75.23,80.31,0,0,0,0,0,5.08,-1,-0.197,FALSE,9,FALSE,FALSE,7
+29,Germany,UEFA,Ghana,CAF,2,draw,,0,2,2,0,0,4,,,1,11,17,28,0,0,0,1,0,0,1,Ghana,0,0,2,26,0,1,1,0,0,24,0,88.87,77.23,0,1,1,0,0,11.64,0,0,FALSE,17,FALSE,FALSE,11
+30,USA,CONCACAF,Portugal,UEFA,3,draw,,0,2,2,0,0,4,,,1,11,14,25,0,1,1,0,1,1,0,Portugal,0,1,13,4,0,1,0,0,0,9,0,77.42,81.02,0,1,0,0,0,3.6,0,0,FALSE,FALSE,11,FALSE,14
+31,Belgium,UEFA,Russia,UEFA,1,Belgium,UEFA,1,1,0,1,1,1,,,3,13,9,22,1,1,0,0,1,0,0,Belgium,0,0,11,18,1,1,0,0,0,7,1,81.97,79.03,1,1,0,0,0,2.94,1,0.34,FALSE,FALSE,FALSE,FALSE,13
+32,South Korea,AFC,Algeria,CAF,11,Algeria,CAF,1,2,4,-2,2,6,,,3,13,16,29,1,1,0,0,0,0,1,Algeria,0,0,31,21,1,1,0,0,0,10,2,72.38,63.43,0,0,1,0,1,8.95,-2,-0.223,13,16,FALSE,FALSE,FALSE
+33,Cameroon,CAF,Brazil,CONMEBOL,9,Brazil,CONMEBOL,1,1,4,-3,3,5,,,3,14,19,33,1,1,0,0,1,0,0,Brazil,0,0,30,3,1,1,1,1,0,27,3,71.33,91.83,1,1,1,1,0,20.5,3,0.146,FALSE,14,FALSE,19,FALSE
+34,Croatia,UEFA,Mexico,CONCACAF,3,Mexico,CONCACAF,1,1,3,-2,2,4,,,4,18,12,30,0,1,1,0,0,0,0,Croatia,0,0,17,19,0,0,0,0,0,2,-2,75.72,76.95,1,1,0,0,0,1.23,2,1.626,FALSE,FALSE,12,FALSE,18
+35,Australia,AFC,Spain,UEFA,6,Spain,UEFA,1,0,3,-3,3,3,,,3,14,9,23,0,0,0,0,0,0,0,Australia,0,0,32,1,1,1,1,1,0,31,3,69.45,89.13,1,1,1,1,0,19.68,3,0.152,14,FALSE,FALSE,FALSE,9
+36,Netherlands,UEFA,Chile,CONMEBOL,4,Netherlands,UEFA,1,2,0,2,2,2,,,2,26,14,40,1,0,0,1,0,0,1,Netherlands,0,0,15,14,0,0,0,0,0,1,-2,82.49,86.72,0,0,0,0,0,4.23,-2,-0.473,FALSE,FALSE,FALSE,14,26
+37,Japan,AFC,Colombia,CONMEBOL,18,Colombia,CONMEBOL,1,1,4,-3,3,5,,,2,10,19,29,1,1,0,0,1,0,0,Colombia,0,0,29,8,1,1,1,1,0,21,3,73.5,85.82,1,1,1,1,0,12.32,3,0.244,10,FALSE,FALSE,19,FALSE
+38,Greece,UEFA,Ivory Coast,CAF,2,Greece,UEFA,1,2,1,1,1,3,,,3,13,23,36,0,0,0,0,1,1,0,Ivory Coast,0,0,12,22,1,1,0,0,0,10,1,76.78,78.9,0,0,0,0,0,2.12,-1,-0.472,FALSE,23,FALSE,FALSE,13
+39,Italy,UEFA,Uruguay,CONMEBOL,4,Uruguay,CONMEBOL,1,0,1,-1,1,1,,,6,19,20,39,1,1,0,0,1,0,0,Uruguay,0,1,9,7,1,1,0,0,0,2,1,79.49,83.35,1,1,0,0,0,3.86,1,0.259,FALSE,FALSE,FALSE,20,19
+40,Costa Rica,CONCACAF,England,UEFA,3,draw,,0,0,0,0,0,0,,,3,17,17,34,0,1,1,0,0,1,0,FALSE,1,0,24,10,0,1,1,0,0,14,0,74.07,83.22,0,1,1,0,0,9.15,0,0,FALSE,FALSE,17,FALSE,17
+41,Honduras,CONCACAF,Switzerland,UEFA,3,Switzerland,UEFA,1,0,3,-3,3,3,,,1,17,18,35,1,1,0,0,1,0,0,Switzerland,0,0,25,6,1,1,1,1,0,19,3,69.62,78.05,1,1,1,1,0,8.43,3,0.356,FALSE,FALSE,17,FALSE,18
+42,Ecuador,CONMEBOL,France,UEFA,4,draw,,0,0,0,0,0,0,,,2,17,6,23,0,0,0,1,0,0,1,Ecuador,0,1,23,16,0,1,0,0,0,7,0,80.65,86.12,0,1,0,0,0,5.47,0,0,FALSE,FALSE,FALSE,17,6
+43,Nigeria,CAF,Argentina,CONMEBOL,9,Argentina,CONMEBOL,1,2,3,-1,1,5,,,2,17,6,23,0,0,0,0,0,0,0,Nigeria,0,0,28,5,1,1,1,1,0,23,1,75.23,90,1,1,1,1,0,14.77,1,0.068,FALSE,17,FALSE,6,FALSE
+44,Bosnia and Herzegovina,UEFA,Iran,AFC,6,Bosnia and Herzegovina,UEFA,1,3,1,2,2,4,,,2,20,17,37,1,1,0,0,1,0,0,Bosnia and Herzegovina,0,0,20,27,1,1,0,0,0,7,2,80.31,70.63,1,1,1,1,0,9.68,2,0.207,17,FALSE,FALSE,FALSE,20
+45,USA,CONCACAF,Germany,UEFA,3,Germany,UEFA,1,0,1,-1,1,1,,,3,15,9,24,0,0,0,0,0,0,0,USA,0,0,13,2,1,1,1,1,0,11,1,77.42,88.87,1,1,1,1,0,11.45,1,0.087,FALSE,FALSE,15,FALSE,9
+46,Portugal,UEFA,Ghana,CAF,2,Portugal,UEFA,1,2,1,1,1,3,,,4,21,16,37,1,1,0,0,1,0,0,Portugal,0,0,4,26,1,1,1,1,0,22,1,81.02,77.23,1,1,0,0,0,3.79,1,0.264,FALSE,16,FALSE,FALSE,21
+47,South Korea,AFC,Belgium,UEFA,6,Belgium,UEFA,1,0,1,-1,1,1,,,3,16,11,27,0,0,0,0,0,0,0,South Korea,0,1,31,11,1,1,1,1,0,20,1,72.38,81.97,1,1,1,1,0,9.59,1,0.104,16,FALSE,FALSE,FALSE,11
+48,Algeria,CAF,Russia,UEFA,2,draw,,0,1,1,0,0,2,,,5,15,14,29,0,0,0,1,0,0,1,Algeria,0,1,21,18,0,1,0,0,0,3,0,63.43,79.03,0,1,1,0,0,15.6,0,0,FALSE,15,FALSE,FALSE,14
+49,Brazil,CONMEBOL,Chile,CONMEBOL,16,Brazil,CONMEBOL,1,1,1,0,0,2,,,7,28,23,51,0,1,0,0,1,0,0,Brazil,0,,3,14,1,1,1,1,0,11,0,91.83,86.72,1,1,0,0,0,5.11,0,0,FALSE,FALSE,FALSE,28,FALSE
+50,Colombia,CONMEBOL,Uruguay,CONMEBOL,16,Colombia,CONMEBOL,1,2,0,2,2,2,,,3,19,17,36,1,0,0,1,1,0,0,Colombia,0,,8,7,0,0,0,0,0,1,-2,85.82,83.35,1,1,0,0,0,2.47,2,0.81,FALSE,FALSE,FALSE,19,FALSE
+51,Netherlands,UEFA,Mexico,CONCACAF,3,Netherlands,UEFA,1,2,1,1,1,3,,,3,8,12,20,0,0,0,0,0,0,0,Mexico,0,,15,19,1,1,0,0,0,4,1,82.49,76.95,1,1,0,0,0,5.54,1,0.181,FALSE,FALSE,12,FALSE,8
+52,Costa Rica,CONCACAF,Greece,UEFA,3,Costa Rica,CONCACAF,1,1,1,0,0,2,,,8,23,16,39,0,0,0,1,0,0,1,Costa Rica,0,,24,12,0,0,1,0,1,12,0,74.07,76.78,0,0,0,0,0,2.71,0,0,FALSE,FALSE,23,FALSE,16
+53,France,UEFA,Nigeria,CAF,2,France,UEFA,1,2,0,2,2,2,,,1,12,15,27,0,0,0,0,0,0,0,Nigeria,0,,16,28,1,1,1,1,0,12,2,86.12,75.23,1,1,1,1,0,10.89,2,0.184,FALSE,15,FALSE,FALSE,12
+54,Germany,UEFA,Algeria,CAF,2,Germany,UEFA,1,2,1,1,1,3,,,3,11,20,31,0,0,0,0,0,0,0,Algeria,0,,2,21,1,1,1,1,0,19,1,88.87,63.43,1,1,1,1,0,25.44,1,0.039,FALSE,20,FALSE,FALSE,11
+55,Argentina,CONMEBOL,Switzerland,UEFA,4,Argentina,CONMEBOL,1,1,0,1,1,1,,,5,19,28,47,0,0,0,0,0,0,0,Switzerland,0,,5,6,1,1,0,0,0,1,1,90,78.05,1,1,1,1,0,11.95,1,0.084,FALSE,FALSE,FALSE,19,28
+56,Belgium,UEFA,USA,CONCACAF,3,Belgium,UEFA,1,2,1,1,1,3,,,2,27,11,38,1,1,0,0,1,0,0,Belgium,0,,11,13,1,1,0,0,0,2,1,81.97,77.42,1,1,0,0,0,4.55,1,0.22,FALSE,FALSE,11,FALSE,27
+57,Brazil,CONMEBOL,Colombia,CONMEBOL,16,Brazil,CONMEBOL,1,2,1,1,1,3,,,4,31,23,54,1,1,0,0,1,0,0,Brazil,0,,3,8,1,1,0,0,0,5,1,91.83,85.82,1,1,0,0,0,6.01,1,0.166,FALSE,FALSE,FALSE,31,FALSE
+58,France,UEFA,Germany,UEFA,1,Germany,UEFA,1,0,1,-1,1,1,,,2,15,18,33,1,1,0,0,1,0,0,Germany,0,,16,2,1,1,1,1,0,14,1,86.12,88.87,1,1,0,0,0,2.75,1,0.364,FALSE,FALSE,FALSE,FALSE,15
+59,Netherlands,UEFA,Costa Rica,CONCACAF,3,Netherlands,UEFA,1,0,0,0,0,0,,,7,15,13,28,0,1,0,0,1,0,0,Netherlands,0,,15,24,1,1,0,0,0,9,0,82.49,74.07,1,1,1,1,0,8.42,0,0,FALSE,FALSE,13,FALSE,15
+60,Argentina,CONMEBOL,Belgium,UEFA,4,Argentina,CONMEBOL,1,1,0,1,1,1,,,3,11,14,25,0,0,0,0,0,0,0,Belgium,0,,5,11,1,1,0,0,0,6,1,90,81.97,1,1,1,1,0,8.03,1,0.125,FALSE,FALSE,FALSE,11,14
+61,Brazil,CONMEBOL,Germany,UEFA,4,Germany,UEFA,1,1,7,-6,6,8,,,1,11,14,25,1,1,0,0,0,0,1,Germany,0,,3,2,1,1,0,0,0,1,6,91.83,88.87,0,0,0,0,0,2.96,-6,-2.027,FALSE,FALSE,FALSE,11,14
+62,Netherlands,UEFA,Argentina,CONMEBOL,4,Argentina,CONMEBOL,1,0,0,0,0,0,,,3,15,10,25,0,0,0,0,0,0,0,Netherlands,0,,15,5,1,1,0,0,0,10,0,82.49,90,1,1,0,0,0,7.51,0,0,FALSE,FALSE,FALSE,10,15
+63,Brazil,CONMEBOL,Netherlands,UEFA,4,Netherlands,UEFA,1,0,3,-3,3,3,,,5,16,20,36,1,0,0,1,0,0,1,Netherlands,0,,3,15,0,0,1,0,1,12,-3,91.83,82.49,0,0,1,0,1,9.34,-3,-0.321,FALSE,FALSE,FALSE,16,20
+64,Germany,UEFA,Argentina,CONMEBOL,4,Germany,UEFA,1,1,0,1,1,1,,,4,20,16,36,1,1,0,0,0,0,1,Germany,0,,2,5,1,1,0,0,0,3,1,88.87,90,0,0,0,0,0,1.13,-1,-0.885,FALSE,FALSE,FALSE,16,20

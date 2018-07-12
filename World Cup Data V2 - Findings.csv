@@ -1,0 +1,24 @@
+Metrics,2018,,2014,,2010,,,
+,Rank,SPI,Rank,SPI,Rank,,Rank Avg,SPI Avg
+Winning percentage for favored teams,0.5416666667,0.6458333333,0.6875,0.640625,0.5625,,0.6145833333,0.6432291667
+Winning + drawing percentage for favored teams,0.7291666667,0.8333333333,0.828125,0.78125,0.78125,,0.7786458333,0.8072916667
+Winning percentage out of games with winners for favored teams,0.6666666667,0.7948717949,0.8,0.7454545455,0.72,,0.7333333333,0.7701631702
+,,,,,,,,
+Winning percentage for favored teams in games with large gap,0.6551724138,0.6666666667,0.6666666667,0.7666666667,,,0.6609195402,0.7166666667
+Winning + drawing percentage for favored teams in games with big gap,0.8275862069,0.8787878788,0.8181818182,0.9,,,0.8228840125,0.8893939394
+Correlation between SPI Gap and High SPI win,0.3024622753,0.1321798901,,0.2819113434,,,,
+,,,,,,,,
+Percent of games (with a winner) in which the winning team fouled more,0.3076923077,,0.2,,,,,
+Percent of games in which the underdog fouled more,0.625,0.6458333333,0.546875,0.59375,,,,
+Percent of games (in which the underdog fouled more) that they won+drew,0.4,0.3548387097,0.4,0.4473684211,,,,
+Percent of games in which the underdog fouled less,0.2916666667,0.2708333333,0.4375,0.390625,,,,
+Percent of games (in which the underdog fouled less) that they won+drew,0.7142857143,0.3846153846,0.2142857143,0.24,,,,
+Percent of games (with large SPI gap) in which underdog fouls more,,0.6666666667,,,,,,
+"Percent of games (with large SPI gap, underdog fouls more) that they won/drew",,0.3181818182,,,,,,
+,,,,,,,,
+Correlation between number of fouls in a game and favorite winning,0.3221916836,0.2500197917,-0.05589721286,0.006684187186,,,,
+Correlation between number of fouls and number of goals,-0.07022871007,,-0.09739230098,,,,,
+Correlation between number of cards and number of goals,0.164849853,,-0.2524588509,,,,,
+Correlation between number of cards and number of fouls,0.3461890942,,0.372943623,,,,,
+Correlation between number of fouls and absolute goal differential,0.216239806,,-0.1748820404,,,,,
+Correlation between number of fouls and goal differential for favorite,0.09702759143,,-0.06067730339,,,,,
